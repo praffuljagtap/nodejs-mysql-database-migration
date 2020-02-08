@@ -1,0 +1,17 @@
+{
+  "name": "mysql-migration",
+  "version": "1.0.0",
+  "description": "The project is a simple node project with mysql which uses mysql queries to migrate database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prafful Jagtap",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
